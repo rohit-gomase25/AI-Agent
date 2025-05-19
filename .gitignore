@@ -4,6 +4,8 @@ __pycache__/
 
 # Virtual environment
 venv/
+
+# Environment variables file
 .env
 
 # Distribution / packaging
