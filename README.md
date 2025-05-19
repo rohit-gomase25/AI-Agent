@@ -18,7 +18,7 @@ To set up the project environment, ensure you have Python 3.7 or higher installe
 pip install -r requirements.txt
 ```
 
-### Create env file also and add API Key in it
+### Create .env file also and add API Key in it..
 
 ## Usage
 To run the AI Agent, execute the main script:
